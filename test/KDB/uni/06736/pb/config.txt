@@ -1,3 +1,0 @@
-numbers = ".\numbers.png"
-collar = no
-model = 78
